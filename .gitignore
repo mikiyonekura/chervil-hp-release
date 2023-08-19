@@ -1,7 +1,11 @@
 node_modules
 frontend/node_modules
-# frontend/src/components/firebase/firebase.js
+frontend/src/components/firebase/firebase.js
 # yarn.lock
 # frontend/yarn.lock
+.DS_Store
+frontend/.DS_Store
+
+
 
 
